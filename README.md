@@ -10,7 +10,7 @@ this is my note while working as a programmer. I put this note in the repo so I 
 <!-- TOC -->
 
 ### NGINX
-
+<a href="#" name="nginx"><img src="https://raw.githubusercontent.com/ophaant/my-notes/master/src/images/nginx.svg"></a>
 
 
 
